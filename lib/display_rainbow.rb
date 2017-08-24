@@ -1,4 +1,4 @@
-def display_rainbow('red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet')
+def display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
   print "R: #{display_rainbow[0]}"
   print "O: #{display_rainbow[1]}"
   print "Y: #{display_rainbow[2]}"
